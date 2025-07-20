@@ -1,18 +1,122 @@
-# 💫 About Me:
-I'm currently working as website developer<br>I'm currently learning about data structure and algorithms<br>Pre final year student in computer science and engineering
+# Hi there, I'm Shubham Vaishnav! 👋
 
+<div align="start">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="900" height="250" style="border-radius: 8px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 1px solid #4CAF50;"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubhamvaishnav.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-vaishnav-2399742a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamvaishnav332@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubhamvaishnav18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamvaishnav18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvaishnav18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate **Full Stack Developer** who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
 
----
-[![](https://visitcount.itsvg.in/api?id=Shubhamvaishnav18&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="start">
+  <table>
+    <tr>
+      <td width="60%">
+        - 🔭 I'm currently working on exciting web applications<br>
+        - 🌱 I'm currently learning data structures and algorithms<br>
+        - 💬 Ask me about JavaScript, React, Node.js, and web development<br>
+        - 📫 How to reach me: [shubhamvaishnav332@gmail.com]<br>
+        - ⚡ Fun fact: I love solving complex problems and learning new technologies
+      </td>
+      <td >
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<table align="start">
+  <tr>
+    <td align="start" width="200px">
+      <b>🎨 Frontend</b>
+    </td>
+    <td>
+      HTML, CSS, JavaScript, TypeScript, React.js, Bootstrap, MaterialUI
+    </td>
+  </tr>
+  <tr>
+    <td align="start" width="200px">
+      <b>⚙️ Backend</b>
+    </td>
+    <td>
+      Node.js, Express.js, REST APIs
+    </td>
+  </tr>
+  <tr>
+    <td align="start" width="200px">
+      <b>🗄️ Database</b>
+    </td>
+    <td>
+      MongoDB, MySQL, Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="start" width="200px">
+      <b>🧠 DSA & OOP</b>
+    </td>
+    <td>
+      Data Structures, Algorithms, Object-Oriented Programming
+    </td>
+  </tr>
+  <tr>
+    <td align="start" width="200px">
+      <b>🔧 Languages & DevTools</b>
+    </td>
+    <td>
+      C++, Python, Java, Git, GitHub, Figma, Canva, Postman, Vercel, Render
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvaishnav18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="start">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamvaishnav18&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvaishnav18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvaishnav18&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamvaishnav18&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🌟 Featured Projects
+
+### 🍔 [foodWebsite](https://foodapp-frontend-qdcl.onrender.com/) : Food-ordering platform with AI chatbot assistance (99% uptime, <30s checkout).
+
+### ✈️ [travelingWebsite](https://wanderlust-8f0r.onrender.com/listings) : Smart travel booking portal (98% uptime, 20+ destinations).
+
+### 💳 [nfcCards](https://github.com/Shubhamvaishnav18/nfc-project) : Built NFC card marketplace (3s NFC tap payments, 40+ designs available).
+
+## 📫 Let's Connect!
+
+<div align="start">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-vaishnav-2399742a3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-virid-kappa-67.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamvaishnav332@gmail.com)
+
+</div>
+
+<div align="start">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+</div>
+```
