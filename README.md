@@ -8,7 +8,7 @@
 
 I'm a passionate **Full Stack Developer** who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
 
-<div align="start" style="display: flex; gap: 20px; align-items: center; justify-content: start;">
+<div align="start" style="display: flex; flex-direction: row; gap: 20px; align-items: center; justify-content: start;">
   <div style="text-align: left;">
     - 🔭 I'm currently working on exciting web applications<br>
     - 🌱 I'm currently learning data structures and algorithms<br>
