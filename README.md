@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
     - 📫 How to reach me: [shubhamvaishnav332@gmail.com]<br>
     - ⚡ Fun fact: I love solving complex problems and learning new technologies
   </div>
-  <div>
+  <div style="text-align: right;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 </div>
