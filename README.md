@@ -8,16 +8,16 @@
 
 I'm a passionate **Full Stack Developer** who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
 
-<div align="start" style="display: flex; flex-direction: row; align-items: center; justify-content: start;">
-  <div style="text-align: left;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 40px;">
+  <div style="flex: 1; text-align: left;">
     - 🔭 I'm currently working on exciting web applications<br>
     - 🌱 I'm currently learning data structures and algorithms<br>
     - 💬 Ask me about JavaScript, React, Node.js, and web development<br>
     - 📫 How to reach me: [shubhamvaishnav332@gmail.com]<br>
     - ⚡ Fun fact: I love solving complex problems and learning new technologies
   </div>
-  <div style="text-align: right;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 10px;"/>
   </div>
 </div>
 
