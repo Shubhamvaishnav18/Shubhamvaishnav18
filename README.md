@@ -8,21 +8,17 @@
 
 I'm a passionate **Full Stack Developer** who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
 
-<div align="start">
-  <table>
-    <tr>
-      <td width="60%">
-        - 🔭 I'm currently working on exciting web applications<br>
-        - 🌱 I'm currently learning data structures and algorithms<br>
-        - 💬 Ask me about JavaScript, React, Node.js, and web development<br>
-        - 📫 How to reach me: [shubhamvaishnav332@gmail.com]<br>
-        - ⚡ Fun fact: I love solving complex problems and learning new technologies
-      </td>
-      <td >
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-      </td>
-    </tr>
-  </table>
+<div align="start" style="display: flex; gap: 30px; align-items: center; justify-content: start;">
+  <div style="text-align: left;">
+    - 🔭 I'm currently working on exciting web applications<br>
+    - 🌱 I'm currently learning data structures and algorithms<br>
+    - 💬 Ask me about JavaScript, React, Node.js, and web development<br>
+    - 📫 How to reach me: [shubhamvaishnav332@gmail.com]<br>
+    - ⚡ Fun fact: I love solving complex problems and learning new technologies
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  </div>
 </div>
 
 ## 🛠️ Tech Stack
@@ -62,7 +58,7 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
   </tr>
   <tr>
     <td align="start" width="200px">
-      <b>🔧 Languages & DevTools</b>
+      <b>🔧 Lang. & DevTools</b>
     </td>
     <td>
       C++, Python, Java, Git, GitHub, Figma, Canva, Postman, Vercel, Render
@@ -119,4 +115,3 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
 </div>
 
 </div>
-```
