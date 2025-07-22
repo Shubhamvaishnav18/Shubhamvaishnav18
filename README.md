@@ -97,7 +97,7 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
 
 ### ✈️ [travelingWebsite](https://wanderlust-8f0r.onrender.com/listings) : Smart travel booking portal (98% uptime, 20+ destinations).
 
-### 💳 [nfcCards](https://github.com/Shubhamvaishnav18/nfc-project) : Built NFC card marketplace (3s NFC tap payments, 40+ designs available).
+### 💳 [nfcWebsite](https://nfc-project-hdrf.vercel.app) : Built NFC card marketplace (3s NFC tap payments, 40+ designs available).
 
 ## 📫 Let's Connect!
 
