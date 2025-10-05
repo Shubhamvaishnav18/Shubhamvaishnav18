@@ -1,11 +1,11 @@
-# Hi there, I'm Shubham Vaishnav! 👋
-
 <div align="start">
   <img src="https://drive.google.com/uc?export=view&id=16vN_BDOCklBPLlUX7pmuOWyfhu7EpoBT" 
      width="900" 
      height="250" 
-     style="border-radius: 8px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 1px solid #4CAF50;" />
+     style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 1px solid #4CAF50;" />
 </div>
+
+# Hi there, I'm Shubham Vaishnav! 👋
 
 ## 🚀 About Me
 
