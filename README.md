@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://drive.google.com/file/d/16vN_BDOCklBPLlUX7pmuOWyfhu7EpoBT/view?usp=sharing" width="100"/>
 </div>
 
 I'm a passionate **Full Stack Developer** who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
