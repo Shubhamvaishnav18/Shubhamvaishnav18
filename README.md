@@ -32,7 +32,7 @@ Software Engineer who loves creating innovative solutions and turning ideas into
       <b>⚙️ Backend</b>
     </td>
     <td>
-       Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, Redis, JWT, JUnit (testing)
+       Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, Redis, JWT, JUnit 
     </td>
   </tr>
   <tr>
