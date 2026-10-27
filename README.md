@@ -1,5 +1,3 @@
-## 🚀 About Me
-
 Software Engineer who loves creating innovative solutions and turning ideas into reality. With a strong foundation in modern web technologies, I enjoy building scalable applications and contributing to open-source projects.
 
 ## 🛠️ Tech Stack
